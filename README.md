@@ -1,6 +1,9 @@
 ## Try Yii2-*Basic* template with Vagrant VM + Ansible provisioning
 
-this is a fork of [iJackUA/try-yii2](https://github.com/iJackUA/try-yii2/) project.
+this is a fork of [iJackUA/try-yii2](https://github.com/iJackUA/try-yii2/) project with yii2-basic-template version.    
+
+There is a iJackUA description below from try-yii2 repo:
+
 
 ## Out of the box...
 
@@ -17,7 +20,7 @@ this is a fork of [iJackUA/try-yii2](https://github.com/iJackUA/try-yii2/) proje
 * Sqlite 2.8.17
 * Memcached 1.4.14 ( + php5_memcached)
 * Imported [Sakila DB](http://dev.mysql.com/doc/sakila/en/) for playing around
-* And of course Yii2 Advanced Project template imported
+* And of course Yii2 *Basic* Project template imported
 * Local IP loop on Host machine `/etc/hosts` and Virtual hosts in Nginx already set up too !
 
 ## Quick start
